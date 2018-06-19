@@ -9,7 +9,7 @@ title = "Natural Plasmonics"
 summary = "Applying Natural Photonics to Plamsonics"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "natural-photonics.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "natural-photonics.jpg"
 caption = "My caption :smile:"
 
 +++

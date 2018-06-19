@@ -9,7 +9,7 @@ title = "Zigzag Gratings"
 summary = "EPSRC PhD Studentship"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "zigzags.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
