@@ -113,24 +113,6 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
-      <lastmod>2018-06-19T11:52:55+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2018-06-19T11:52:55+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/brillouin/</loc>
       <lastmod>2018-06-19T11:52:55+01:00</lastmod>
     </url>
@@ -177,7 +159,7 @@
     <url>
     
       <loc>/talk/nanometa2013/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -186,7 +168,7 @@
     <url>
     
       <loc>/talk/nanolight2016/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -195,7 +177,7 @@
     <url>
     
       <loc>/talk/spie2016/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -204,7 +186,7 @@
     <url>
     
       <loc>/talk/nanometa2015/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -213,7 +195,7 @@
     <url>
     
       <loc>/talk/exeter15/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -222,7 +204,7 @@
     <url>
     
       <loc>/talk/theomurphy2010/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -231,7 +213,7 @@
     <url>
     
       <loc>/talk/plasmonicsuk2010/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -240,7 +222,7 @@
     <url>
     
       <loc>/talk/ssop13/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -249,7 +231,7 @@
     <url>
     
       <loc>/talk/meta14/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -258,7 +240,7 @@
     <url>
     
       <loc>/talk/nanometa2011/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-06-19T14:28:58+01:00</lastmod>
     </url>
     
   
@@ -345,16 +327,6 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
-      <lastmod>2018-06-19T11:52:55+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/</loc>
       <lastmod>2018-06-19T11:52:55+01:00</lastmod>
       <priority>0</priority>
@@ -366,36 +338,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-06-19T11:52:55+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/r/</loc>
-      <lastmod>2018-06-19T11:52:55+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/r-markdown/</loc>
-      <lastmod>2018-06-19T11:52:55+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/regression/</loc>
       <lastmod>2018-06-19T11:52:55+01:00</lastmod>
       <priority>0</priority>
     </url>

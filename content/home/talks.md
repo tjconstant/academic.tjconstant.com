@@ -17,6 +17,5 @@ count = 3
 #   0 = Simple
 #   1 = Detailed
 list_format = 0
-
 +++
 
