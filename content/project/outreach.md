@@ -3,17 +3,17 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "GRASP"
+title = "Outreach"
 
 # Project summary to display on homepage.
-summary = "Nonlinear Graphene Plasmonics"
+summary = "Public Outereach Work"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["graphene", "non-linear-optics"]
+tags = ["outreach"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

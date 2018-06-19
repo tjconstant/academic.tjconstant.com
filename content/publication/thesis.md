@@ -44,7 +44,7 @@ url_pdf = "http://dx.doi.org/10.1063/1.4914479"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "https://github.com/tjconstant/thesis"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
