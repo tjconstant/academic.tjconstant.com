@@ -36,7 +36,7 @@ selected = false
 projects = ["graphene.md"]
 
 # Links (optional).
-url_pdf = "http://rsta.royalsocietypublishing.org/content/375/2090/20160066"
+#url_pdf = 
 #url_preprint = "https://arxiv.org/abs/1505.00127"
 #url_code = "#"
 #url_dataset = "#"
@@ -44,7 +44,7 @@ url_pdf = "http://rsta.royalsocietypublishing.org/content/375/2090/20160066"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "http://rsta.royalsocietypublishing.org/content/375/2090/20160066"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

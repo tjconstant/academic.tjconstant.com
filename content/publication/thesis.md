@@ -36,7 +36,7 @@ selected = false
 projects = ["natural-photonics.md"]
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.1063/1.4914479"
+url_pdf = "files/papers/thesis.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
@@ -44,11 +44,11 @@ url_pdf = "http://dx.doi.org/10.1063/1.4914479"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-url_source = "https://github.com/tjconstant/thesis"
+url_source = "http://hdl.handle.net/10871/9001"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Github", url = "https://github.com/tjconstant/thesis"}]
 
 # Does the content use math formatting?
 math = true

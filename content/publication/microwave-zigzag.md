@@ -36,7 +36,7 @@ selected = false
 projects = ["natural-photonics.md"]
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.1103/PhysRevB.86.125144"
+url_pdf = "files/papers/PhysRevB.86.125144.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
@@ -44,7 +44,7 @@ url_pdf = "http://dx.doi.org/10.1103/PhysRevB.86.125144"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "http://dx.doi.org/10.1103/PhysRevB.86.125144"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

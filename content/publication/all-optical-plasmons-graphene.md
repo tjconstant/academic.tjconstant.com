@@ -36,7 +36,7 @@ selected = true
 projects = ["graphene.md"]
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/nphys3545"
+url_pdf = "files/papers/nphys3545.pdf"
 url_preprint = "https://arxiv.org/abs/1505.00127"
 #url_code = "#"
 #url_dataset = "#"
@@ -44,11 +44,11 @@ url_preprint = "https://arxiv.org/abs/1505.00127"
 #url_slides = "#"
 #url_video = "#"
 #url_poster = "#"
-#url_source = "#"
+url_source = "https://www.nature.com/articles/nphys3545"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Supplementary Material", url = "files/papers/nphys3545-s1.pdf"}]
 
 # Does the content use math formatting?
 math = true
