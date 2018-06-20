@@ -17,8 +17,8 @@ authors = ["T. J. Constant", "C. J. Tollerton",  "E. Hendry", "D. E. Chang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "on ArXiv"
-publication_short = "on ArXiv"
+publication = "on *ArXiv*"
+publication_short = "on *ArXiv*"
 
 # Abstract and optional shortened version.
 abstract = "It has recently been demonstrated that difference frequency mixing (DFM) can generate surface plasmons in graphene [1]. Here, we present detailed calculations comparing the contributions to this effect from substrate and from graphene nonlinearities. Our calculations show that the substrate (quartz) nonlinearity gives rise to a surface plasmon intensity that is around twelve orders of magnitude smaller than that arising from the intrinsic graphene response. This surprisingly efficient intrinsic process, given the centrosymmetric structure of graphene, arises almost entirely due to non-local contributions to the second order optical nonlinearity of graphene."
@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["graphene.md"]
+projects = ["graphene"]
 
 # Links (optional).
 #url_pdf = "http://rsta.royalsocietypublishing.org/content/375/2090/20160066"

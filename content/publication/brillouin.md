@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "in *Applied Physics Letters*, 106, 091106 (2015)"
-publication_short = "in *Appl. Phys. Lett.*"
+publication_short = "in *Applied Physics Letters*"
 
 # Abstract and optional shortened version.
 abstract = "In periodic systems of low-symmetry, the Bragg condition for the complete interference of waves along the contour of the Brillouin zone (BZ) boundary is not generally satisfied. As a result, band-gaps do not necessarily occur at this boundary. This letter demonstrates this experimentally by recording the iso-frequency contours for surface plasmon polaritons (SPPs) supported on adiffraction grating with an underlying 2D oblique Bravias lattice. It is shown that these contours do not intersect the BZ boundary perpendicularly, as the symmetry operations of the lattice place no conditions on the surface wave interference at this boundary."
@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["natural-photonics.md"]
+projects = ["natural-photonics", "zigzag"]
 
 # Links (optional).
 url_pdf = "files/papers/1.4914479.pdf"

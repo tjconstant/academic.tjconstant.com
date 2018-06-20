@@ -33,7 +33,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["graphene.md"]
+projects = ["graphene"]
 
 # Links (optional).
 url_pdf = "files/papers/nphys3545.pdf"

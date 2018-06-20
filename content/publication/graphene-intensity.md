@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "in *Philosophical Transactions of the Royal Society A*,  Volume 375, issue 2090 (2017)"
-publication_short = "in *Phil. Trans. R. Soc. A*"
+publication_short = "in *Philosophical Transactions of the Royal Society A*"
 
 # Abstract and optional shortened version.
 abstract = "Recently, we demonstrated an all-optical coupling scheme for plasmons, which takes advantage of the intrinsic nonlinear optical response of graphene. Frequency mixing using free-space, visible light pulses generates surface plasmons in a planar graphene sample, where the phase matching condition can define both the wavevector and energy of surface waves and intraband transitions. Here, we also show that the plasmon generation process is strongly intensity-dependent, with resonance features washed out for absorbed pulse fluences greater than 0.1 $J m^{−2}$. This implies a subtle interplay between the nonlinear generation process and sample heating. We discuss these effects in terms of a non-equilibrium charge distribution using a two-temperature model."
@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["graphene.md"]
+projects = ["graphene"]
 
 # Links (optional).
 #url_pdf = 

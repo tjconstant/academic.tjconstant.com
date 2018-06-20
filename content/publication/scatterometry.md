@@ -17,8 +17,8 @@ authors = ["T. J. Constant", "A. P. Hibbins", "P. Vukusic", "A. J. Lethbridge", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Appl. Phys. Lett.* 102, 251107 (2013)"
-publication_short = "In *Appl. Phys. Lett.*"
+publication = "In *Applied Physics Letters* 102, 251107 (2013)"
+publication_short = "In *Applied Physics Letters*"
 
 # Abstract and optional shortened version.
 abstract = "The iso-frequency contours of diffracted surface plasmons on metallic bigratings have been directly recorded using imaging scatterometry. Metallic rectangular bigratings, formed of two “crossed” surface relief gratings, are used to demonstrate this measurement technique. By deepening one of the constituent gratings, control of the surface plasmon dispersion anisotropy is shown in the recorded iso-frequency maps. Collating the iso-frequency contours over a range of wavelengths from 500 nm to 700 nm leads to a three-dimensional map of the surface plasmon dispersion."
@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["natural-photonics.md"]
+projects = ["natural-photonics", "zigzag"]
 
 # Links (optional).
 url_pdf = "files/papers/1.4812482.pdf"

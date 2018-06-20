@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "in *Physical Review B*, 86, 125144 (2012)"
-publication_short = "in Phys. Rev. B"
+publication_short = "in *Physical Review B*"
 
 # Abstract and optional shortened version.
 abstract = "Surface waves at microwave frequencies are excited on a zigzag metasurface formed from unit cells comprised of a pair of identical, alternately oriented, rhombic-shaped metal tubes. This particular symmetry leads to diffractive excitation, with polarization selectivity of different orders, of a family of surface waves. Furthermore, the expected band gap at the first Brillouin zone boundary is absent."
@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["natural-photonics.md"]
+projects = ["zigzag"]
 
 # Links (optional).
 url_pdf = "files/papers/PhysRevB.86.125144.pdf"

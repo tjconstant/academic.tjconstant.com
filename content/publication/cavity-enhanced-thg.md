@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "in *Applied Physics Letters*,  112, 011102 (2018)"
-publication_short = "in *Appl. Phys. Lett.*"
+publication_short = "in *Applied Physics Letters*"
 
 # Abstract and optional shortened version.
 abstract = "Graphene displays a surprisingly large third order nonlinearity. Here, we report that conversion efficiencies approaching $10^{–4}$ are possible for third harmonic generation (THG). Moreover, the atomically thin nature of graphene allows for simple integration in cavity designs to increase this even further. We demonstrate a 117-fold enhancement, of resonant vs non-resonant wavelengths in the THG from graphene due to the integration of a graphene layer with a resonant cavity. This large enhancement occurs as the cavity is resonant for both the fundamental field and the third harmonic. We model this effect using the finite difference time domain approach. By comparing our model with experiment, we are able to deduce the value of a bulk third order susceptibility of graphene of 4e-17"
@@ -33,7 +33,7 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["graphene.md"]
+projects = ["graphene"]
 
 # Links (optional).
 url_pdf = "files/papers/1.4999054.pdf"
