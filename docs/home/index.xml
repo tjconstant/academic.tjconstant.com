@@ -67,14 +67,13 @@
     </item>
     
     <item>
-      <title>Teaching 2</title>
+      <title>Teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>I was a teaching assistant for the following courses at University of Exeter:
+ PHY1025 Mathematics Skills PHY1026 Mathematics for Physicists PHY1027 Practical Physics I PHY1030 Practical Physics and IT Skills  </description>
     </item>
     
     <item>
