@@ -6,7 +6,7 @@ time_start = 2016-03-10T16:30:00
 time_end = 2016-03-10T16:50:00
 abstract = ""
 abstract_short = ""
-event = "Nanolight 2013"
+event = "Nanolight 2016"
 event_url = "http://benasque.org/2016nanolight/"
 location = "Benasque, Spain"
 
