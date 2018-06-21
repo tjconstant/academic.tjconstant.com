@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funded-projects on Tom Constant</title>
+    <link>/tags/funded-projects/</link>
+    <description>Recent content in Funded-projects on Tom Constant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Tom Constant 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/funded-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GRASP</title>
+      <link>/project/graphene/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/graphene/</guid>
+      <description>Working as part of the European project GRASP (Graphene-Based Single-Photon Nonlinear Optical Devices), I performed experimental studies of the nonlinear optics of surface plasmon polaritons on graphene.
+This project was a collaboration with ICFO, Universität Wien, Humboldt-Universität zu Berlin and The University of Exeter.</description>
+    </item>
+    
+    <item>
+      <title>Natural Plasmonics</title>
+      <link>/project/natural-photonics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/natural-photonics/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>QUEST</title>
+      <link>/project/microwave-metamaterials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/microwave-metamaterials/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+    <item>
+      <title>Zigzag Gratings</title>
+      <link>/project/zigzag/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/project/zigzag/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+  </channel>
+</rss>

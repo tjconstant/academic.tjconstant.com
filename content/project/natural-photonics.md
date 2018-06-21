@@ -13,7 +13,7 @@ image_preview = "natural-photonics.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["plasmonics"]
+tags = ["plasmonics", "funded-projects"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

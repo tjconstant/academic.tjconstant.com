@@ -13,7 +13,7 @@ image_preview = "graphene.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["graphene", "non-linear-optics"]
+tags = ["graphene", "non-linear-optics", "funded-projects"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

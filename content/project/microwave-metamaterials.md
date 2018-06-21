@@ -13,7 +13,7 @@ image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["metamaterials", "microwave", "transformation-optics"]
+tags = ["metamaterials", "microwave", "transformation-optics", "funded-projects"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
