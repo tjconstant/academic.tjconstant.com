@@ -18,7 +18,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/project/software/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <description>Over the course of my academic career, I have mostly used the statistical programming language R for the analysis of my data and exploration of theory. I have developed several R packages in that time for various useful optics calculations and for data-processing.
+mlfilms The mlfilms package uses the transfer matrix method to calculate the reflection and transmission of plane polarised light from an arbitary stack of thin films.</description>
     </item>
     
   </channel>

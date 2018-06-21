@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Electromagnetic Software"
 
 # Project summary to display on homepage.
-summary = "Software for Elctromagnetics Development"
+summary = "Software for Electromagnetic Development"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "software.png"
@@ -19,7 +19,7 @@ tags = ["software"]
 external_link = ""
 
 # Does the project detail page use math formatting?
-math = false
+math = true
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -28,12 +28,55 @@ caption = "My caption :smile:"
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Over the course of my academic career, I have mostly used the statistical programming language `R` for the analysis of my data and exploration of theory. I have developed several R packages in that time for various useful optics calculations and for data-processing.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+## mlfilms
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+The `mlfilms` package uses the transfer matrix method to calculate the reflection and transmission of plane polarised light from an arbitary stack of thin films.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+It is the most complete R package I have created, with documentation and examples.
+
+<a class = "btn btn-primary btn-outline" href="http://mlfilms.tjconstant.com"><i class="fa fa-book"></i> Documentation</a> <a class = "btn btn-primary btn-outline" href="https://github.com/tjconstant/mlfilms"><i class="fa fa-github"></i> Github</a>
+
+
+## thor2
+
+The `thor2` package provides the optical response of various thorlab components for use in R.
+
+<a class = "btn btn-primary btn-outline"  href="https://github.com/tjconstant/thor2"><i class="fa fa-github"></i> Github</a>
+
+## disp.plot
+
+Package for producting colourplots/heatmap plots of linearly-spaced data with arbitrary non-linear coordinate transformations. 
+
+Developed by necessity to be able to transform wavelength $(\lambda)$ and angle $(\theta)$ data to non-linearly spaced colourplots of frequency $(1/\lambda)$ and momentum $(\propto (1/\lambda) \sin{\theta})$, but also works for any linearly-spaced to nonlinear-spaced data. For example the Cartesian to polar colourplot transformation $f(x,y) \rightarrow f(r, \theta)$.
+
+<a class = "btn btn-primary btn-outline"  href="https://github.com/tjconstant/disp.plot"><i class="fa fa-github"></i> Github</a>
+
+## rindex
+
+`rindex` allows you to browse refractive index data from <http://refractiveindex.info> directly in R, and to directly use the datasets or interpolated refractive index functions for a wide range of materials. 
+
+<a class = "btn btn-primary btn-outline"  href="https://github.com/tjconstant/rindex"><i class="fa fa-github"></i> Github</a>
+
+## fdtd
+
+An example script showing how to implement a simple Finite Difference Time Domain calculation in R.
+
+<a class = "btn btn-primary btn-outline"  href="https://github.com/tjconstant/fdtd"><i class="fa fa-github"></i> Github</a>
+
+## grapheneSPP
+
+An R implementation to calculate Surface Plasmon Polariton dispersion in Graphene, including interactions with substrate phonons. 
+
+<a class = "btn btn-primary btn-outline" href="https://github.com/tjconstant/grapheneSPP"><i class="fa fa-github"></i> Github</a>
+
+## photonMonkey / ultrafastMonkey
+
+Miscellaneous convenience functions for use in optics.
+
+<a class = "btn btn-primary btn-outline" href="https://github.com/tjconstant/photonMonkey"><i class="fa fa-github"></i> Github (photonMonkey)</a>
+<a class = "btn btn-primary btn-outline" href="https://github.com/tjconstant/ultrafastMonkey"><i class="fa fa-github"></i> Github (ultrafastMonkey)</a>
+
+
