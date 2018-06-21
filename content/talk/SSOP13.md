@@ -39,4 +39,4 @@ caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+<iframe src="https://onedrive.live.com/embed?cid=19DDD156966748AF&amp;resid=19DDD156966748AF%211336&amp;authkey=AGkulKm1ogEcwb8&amp;em=2&amp;wdAr=1.3333333333333333" width="610px" height="481px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>

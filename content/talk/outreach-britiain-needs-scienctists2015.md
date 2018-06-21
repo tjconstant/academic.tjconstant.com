@@ -1,7 +1,7 @@
 +++
 date = 2011-01-01T00:00:00  # Schedule page publish date.
 
-title = "Britain Needs Scientists"
+title = "Bright Ideas: The Science of Light"
 time_start = 2015-09-10T19:30:00
 time_end = 2015-09-10T20:30:00
 abstract = ""
@@ -39,4 +39,4 @@ caption = "My caption :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+<iframe src="https://onedrive.live.com/embed?cid=19DDD156966748AF&amp;resid=19DDD156966748AF%211345&amp;authkey=AERmFWrJbegAmqs&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
